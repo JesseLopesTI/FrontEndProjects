@@ -1,0 +1,97 @@
+:root {
+  --white-color: #fff;
+  --gray-color: #ada9a9;
+  --saturated-green-color: #00b242;
+  --unsaturated-green-color: #00a83e;
+
+  font-size: 60%;
+}
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Quicksand', sans-serif;
+}
+
+form {
+  width: 100vw;
+  position: fixed;
+  bottom: 5rem;
+}
+
+.form-container {
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.input-container {
+  position: relative;
+}
+
+label {
+  position: absolute;
+  font-size: 1.5rem;
+  top: 1.1rem;
+  right: 1rem;
+  cursor: pointer;
+}
+
+.fas {
+  color: var(--gray-color);
+}
+
+input {
+  width: 69.5vw;
+  height: 6.5vh;
+  margin-bottom: 1.2rem;
+  font-family: 'Quicksand', sans-serif;
+  color: var(--gray-color);
+  text-align: center;
+  border: 1px solid var(--gray-color);  
+  outline: none;
+}
+
+.input-username:focus,
+.input-password:focus {
+  border: 1px solid var(--saturated-green-color);
+  color: var(--saturated-green-color);
+}
+
+::placeholder {
+  color: var(--gray-color);
+}
+
+.button {
+  width: 70vw;
+  background: var(--saturated-green-color);
+  cursor: pointer;
+  text-transform: uppercase;
+  color: var(--white-color);
+  border: none;
+  outline: none;
+}
+
+.button:hover {
+  background: var(--unsaturated-green-color);
+  border: none;
+  transition: .5s;
+}
+
+p {
+  font-size: 1.2rem;
+  text-align: center;
+  color: var(--gray-color);
+}
+
+a {
+  color: var(--saturated-green-color);
+  font-weight: bold;
+  cursor: pointer;
+}
