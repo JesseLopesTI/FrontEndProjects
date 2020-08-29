@@ -95,3 +95,17 @@ a {
   font-weight: bold;
   cursor: pointer;
 }
+
+@media (min-width: 426px) {
+  .form-container {
+    width: 298px;
+  }
+
+  input {
+    width: 296px;
+  }
+
+  .button {
+    width: 298px;
+  }
+}
