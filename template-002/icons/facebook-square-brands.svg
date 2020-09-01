@@ -3,9 +3,9 @@
 <svg version="1.1" id="Camada_1" focusable="false" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 448 448" style="enable-background:new 0 0 448 448;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#3B5999;stroke-width:5;stroke-miterlimit:10;}
+	.st0{fill:#FFFFFF;stroke:#3B5999;stroke-width:10;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M400,0H48C21.5,0,0,21.5,0,48v352c0,26.5,21.5,48,48,48h137.3V295.7h-63V224h63v-54.6c0-62.2,37-96.5,93.7-96.5
-	c27.1,0,55.5,4.8,55.5,4.8v61h-31.3c-30.8,0-40.4,19.1-40.4,38.7V224h68.8l-11,71.7h-57.8V448H400c26.5,0,48-21.5,48-48V48
-	C448,21.5,426.5,0,400,0z"/>
+<path class="st0" d="M391.4,11H56.6C31.4,11,11,31.4,11,56.6v334.7c0,25.2,20.4,45.6,45.6,45.6h130.5V292.2h-59.9V224h59.9v-52
+	c0-59.1,35.2-91.7,89.1-91.7c25.8,0,52.8,4.6,52.8,4.6v58h-29.7c-29.3,0-38.4,18.2-38.4,36.8V224h65.4l-10.5,68.2h-54.9V437h130.5
+	c25.2,0,45.6-20.4,45.6-45.6V56.6C437,31.4,416.6,11,391.4,11z"/>
 </svg>
