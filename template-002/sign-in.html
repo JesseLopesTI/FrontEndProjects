@@ -13,34 +13,41 @@
 
   <body>
     <header>
-      <nav>
-        <ul>
-          <div class="logo-sign-in">
-            <h1>
-              <a href=""><i class="fab fa-facebook-square"></a></i>
-            </h1>
-            <li><a href="">Sign In</a></li>
-          </div>
-          <div class="sign-up">
-            <li><a href="sign-up.html">Sign Up</a></li>
-          </div>
-        </ul>
-      </nav>
+      <div class="header-container">
+        <nav>
+          <ul>
+            <div class="logo-sign-in">
+              <h1>
+                <a href=""><i class="fab fa-facebook-square"></a></i>
+              </h1>
+
+              <li><a href="">Sign In</a></li>
+            </div>
+
+            <div class="sign-up">
+              <li><a href="sign-up.html">Sign Up</a></li>
+            </div>
+          </ul>
+        </nav>
+      </div>
     </header>
 
     <main>
-      <div class="main-wrapper">
+      <div class="main-container">
         <form>
           <div class="form-wrapper">
             <label for="email-phone-number">
               <input type="text" id="email-phone-number" name="email-phone-number" placeholder="Email or Phone Number" required>
             </label>
+
             <label for="password">
               <input type="password" id="password" name="password" placeholder="Password" required>
             </label>
+
             <button type="submit" name="Sign In">
               Sign In
             </button>
+
             <p>
               <a href="#">Forgot account?</a>
             </p>
@@ -48,6 +55,7 @@
         </form>
 
         <div class="row"></div>
+
         <p>
           <strong><a href="#">Create a Page</a></strong> for a celebraty, band or business
         </p>
