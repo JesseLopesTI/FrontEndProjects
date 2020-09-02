@@ -17,7 +17,7 @@ input {
 }
 
 input:focus {
-  color: var(--blue-color);
+  color: var(--primary-blue-color);
   border: 1px solid var(--secondary-gray-color);
 }
 
@@ -32,7 +32,7 @@ input:focus::placeholder {
 .button {
   width: 79.5vw;
   height: 8vh;
-  background: var(--blue-color);
+  background: var(--primary-blue-color);
   color: var(--white-color);
   border: none;
   outline: none;
@@ -48,7 +48,7 @@ input:focus::placeholder {
 }
 
 .form-paragraph {
-  color: var(--blue-color);
+  color: var(--primary-blue-color);
 }
 
 .form-paragraph:hover {
