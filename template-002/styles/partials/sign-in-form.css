@@ -42,6 +42,11 @@ input:focus::placeholder {
   border-radius: 5px;
 }
 
+.button:hover {
+  background: var(--secondary-blue-color);
+  transition: .5s;
+}
+
 .form-container p {
   margin-top: 1rem;
   text-align: center;
