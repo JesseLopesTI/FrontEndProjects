@@ -2,11 +2,12 @@
   --white-color: #fff;
   --black-color: #000;
   --gray-background-color: #f1f2f6;
-  --blue-color: #3B5999;
+  --primary-blue-color: #3B5999;
+  --secondary-blue-color: #14306c;
   --primary-gray-color: #95979d;
   --secondary-gray-color: #d0cfd3;
   --primary-green-color: #42b72a;
-  --secondary-green-color: #32a520;
+  --secondary-green-color: #2a9813;
 }
 
 *,
