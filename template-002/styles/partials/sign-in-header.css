@@ -24,14 +24,14 @@ ul li {
 
 .facebook-logo {
   width: 4rem;
-  color: var(--blue-color);
+  color: var(--primary-blue-color);
   margin-top: 2rem;
 }
 
 .sign-in {
-  color: var(--blue-color);
+  color: var(--primary-blue-color);
   font-size: 2rem;
-  border-bottom: 2px solid var(--blue-color);
+  border-bottom: 2px solid var(--primary-blue-color);
   padding-bottom: 0.5rem;
 }
 
