@@ -1,0 +1,17 @@
+footer {
+  border-top: 1px solid var(--primary-gray-color);
+}
+
+.form-container-paragraph {
+  margin: 1rem 0;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.link-form {
+  color: var(--black-color);
+}
+
+.link-form:hover {
+  text-decoration: underline;
+}
