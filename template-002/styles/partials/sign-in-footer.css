@@ -2,16 +2,17 @@ footer {
   border-top: 1px solid var(--primary-gray-color);
 }
 
-.form-container-paragraph {
+.footer-paragraph {
   margin: 1rem 0;
   font-size: 0.8rem;
   text-align: center;
+  color: var(--primary-gray-color);
 }
 
-.link-form {
-  color: var(--black-color);
+.footer-link {
+  color: var(--primary-blue-color);
 }
 
-.link-form:hover {
+.footer-link:hover {
   text-decoration: underline;
 }
