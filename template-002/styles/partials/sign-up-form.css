@@ -3,6 +3,10 @@
   margin: 3rem auto;
 }
 
+label {
+  color: var(--primary-gray-color);
+}
+
 input {
   width: 78.8vw;
   height: 8vh;
@@ -29,14 +33,9 @@ input:focus::placeholder {
   font-size: 1rem;
 }
 
-label {
-  color: var(--primary-gray-color);
-}
-
 .fa-question-circle {
   color: var(--primary-gray-color);
   font-size: 0.9rem;
-  outline: none;
 }
 
 .birthday-container {
@@ -59,8 +58,17 @@ label {
   font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
-option {
+.birth-date:focus {
   color: var(--primary-green-color);
+  border: 1px solid var(--secondary-gray-color);
+}
+
+option {
+  color: var(--primary-gray-color);
+}
+
+.active-item {
+  color: var(--secondary-gray-color);
 }
 
 .gender-container {
@@ -86,9 +94,25 @@ option {
   padding: 0 0.25rem 0 0.25rem;
 }
 
+.gender-input-container:focus {
+  border: 1px solid var(--secondary-gray-color);
+}
+
 .gender-input {
   width: 0.7rem;
   margin-bottom: 0;
+  border: var(--secondary-green-color);
+}
+
+.information {
+  font-size: 0.6rem;
+  margin-bottom: 1rem;
+  color: var(--primary-gray-color);
+}
+
+.term-link {
+  color: var(--primary-green-color);
+  font-weight: bold;
 }
 
 .button {
@@ -107,15 +131,4 @@ option {
 .button:hover {
   background: var(--secondary-green-color);
   transition: .5s;
-}
-
-.information {
-  font-size: 0.6rem;
-  margin-bottom: 1rem;
-  color: var(--primary-gray-color);
-}
-
-.term-link {
-  color: var(--primary-green-color);
-  font-weight: bold;
 }
