@@ -6,11 +6,10 @@ footer {
   margin: 1rem 0;
   font-size: 0.8rem;
   text-align: center;
-  color: var(--primary-gray-color);
 }
 
 .footer-link {
-  color: var(--primary-blue-color);
+  color: var(--black-color);
 }
 
 .footer-link:hover {
