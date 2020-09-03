@@ -7,7 +7,6 @@ input {
   width: 78.8vw;
   height: 8vh;
   margin-bottom: 1rem;
-  outline: none;
   border: 1px solid var(--primary-gray-color);
   border-radius: 5px;
   text-align: center;
@@ -34,8 +33,6 @@ input:focus::placeholder {
   height: 8vh;
   background: var(--primary-blue-color);
   color: var(--white-color);
-  border: none;
-  outline: none;
   cursor: pointer;
   text-transform: uppercase;
   font-size: 1rem;

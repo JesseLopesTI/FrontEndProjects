@@ -15,6 +15,10 @@
 *:before {
   margin: 0;
   padding: 0;
+  border: none;
+  outline: none;
+  list-style: none;
+  text-decoration: none;
 }
 
 body {
@@ -22,4 +26,8 @@ body {
   height: 100vh;
   margin: 0 auto;
   font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+ul li {
+  display: inline;
 }
