@@ -33,6 +33,10 @@ input:focus::placeholder {
   font-size: 1rem;
 }
 
+.legend-title {
+  color: var(--primary-gray-color);
+}
+
 .fa-question-circle {
   color: var(--primary-gray-color);
   font-size: 0.9rem;
