@@ -98,7 +98,7 @@ option {
 
 .gender-input {
   width: 0.7rem;
-  margin-bottom: 0;
+  margin-bottom: -0.1rem;
   border: var(--secondary-green-color);
 }
 
