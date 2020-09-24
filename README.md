@@ -8,12 +8,16 @@ Repositório de projetos **Front-End**.
 * CSS
 * JavaScript
 
-## Project 001
+## Projetos
 
-Reformulando o layout da página de login de um template encontrado no website [Colorlib](https://colorlib.com/wp/html5-and-css3-login-forms/).
+**#1 Projeto 001**
+
+Reformulando o layout da página de login de um template encontrado no [Colorlib](https://colorlib.com/wp/html5-and-css3-login-forms/).
 
 **Resultado:** [project-001](https://github.com/JesseLopesTI/FrontEndProjects/tree/master/project-001)
 
-## [template-002](https://github.com/JesseLopesTI/FrontEndStudies/tree/master/template-002)
+**# Projeto 002**
 
-Reformulando o layout da página de login e cadastro, do facebook.
+Reformulando o layout da página de login e cadastro, do [facebook](https://www.facebook.com/).
+
+**Resultado:** [project-002](https://github.com/JesseLopesTI/FrontEndProjects/tree/master/project-002)
