@@ -1,0 +1,33 @@
+:root {
+  --white-color: #fff;
+  --black-color: #000;
+  --gray-background-color: #f1f2f6;
+  --primary-blue-color: #3B5999;
+  --secondary-blue-color: #14306c;
+  --primary-gray-color: #95979d;
+  --secondary-gray-color: #d0cfd3;
+  --primary-green-color: #42b72a;
+  --secondary-green-color: #2a9813;
+}
+
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  width: 80vw;
+  height: 100vh;
+  margin: 0 auto;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+ul li {
+  display: inline;
+}
