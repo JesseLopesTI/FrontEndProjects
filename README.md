@@ -1,15 +1,18 @@
-# FrontEndStudies
+# FrontEndProjects
 
-Olá! Este é o meu repositório de estudos **Front-End**. Aqui, estarei compartilhando modelos de funcionalidades que recrio ou modifico a partir de outros já prontos.
+Repositório de projetos **Front-End**.
 
 **Tecnologias:**
 
 * HTML
 * CSS
+* JavaScript
 
-## [template-001](https://github.com/JesseLopesTI/FrontEndStudies/tree/master/template-001)
+## Project 001
 
-Formulário de login desenvolvido a partir de um modelo encontrado no [Colorlib](https://colorlib.com/wp/html5-and-css3-login-forms/).
+Reformulando o layout da página de login de um template encontrado no website [Colorlib](https://colorlib.com/wp/html5-and-css3-login-forms/).
+
+**Resultado:** [project-001](https://github.com/JesseLopesTI/FrontEndProjects/tree/master/project-001)
 
 ## [template-002](https://github.com/JesseLopesTI/FrontEndStudies/tree/master/template-002)
 
