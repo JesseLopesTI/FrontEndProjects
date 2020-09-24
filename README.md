@@ -16,7 +16,7 @@ Reformulando o layout da página de login de um template encontrado no [Colorlib
 
 **Resultado:** [project-001](https://github.com/JesseLopesTI/FrontEndProjects/tree/master/project-001)
 
-**# Projeto 002**
+**#2 Projeto 002**
 
 Reformulando o layout da página de login e cadastro, do [facebook](https://www.facebook.com/).
 
